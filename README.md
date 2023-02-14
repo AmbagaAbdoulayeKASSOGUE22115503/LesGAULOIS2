@@ -1,2 +1,2 @@
-# LesGAULOIS2
+# GAULOIS2
 Dépôt du TP Java
